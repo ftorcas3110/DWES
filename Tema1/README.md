@@ -2,6 +2,8 @@
 
 En este tema se verán los ***conceptos básicos***
 
+![Si ves esto es que la imagen no funciona](assets/amogus.jpg)
+
 Se verán los siguientes apartados:
 
 1. asd
@@ -27,9 +29,13 @@ void main(String args[]){
 }
 
 ```
+![Si ves esto es que la imagen no funciona](assets/amogus1.png)
+
 > **Aviso**: Esto debe escribirse en un terminal.
 > 
 > aaaaaaaaaaaaaaaaaaaa
 > ```javascript
 > var numero = 5;
 > ```
+
+![Si ves esto es que la imagen no funciona](assets/amogus2.jpg)
